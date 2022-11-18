@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Quantumberg Technologies"/>
+  <HelloWorld msg="Welcome to Quantumberg Technologies Pvt Lmt"/>
 </template>
 
 <script>
